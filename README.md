@@ -1,2 +1,3 @@
 # Ecommerce_Dashboard
-Dashboard de ecommerce feito com MySql e Power BI.
+![Dashboard](https://github.com/viniciusvarone/assets/blob/main/proj_ecom.png)
+
