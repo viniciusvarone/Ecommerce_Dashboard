@@ -24,14 +24,13 @@ Os dados foram gerados por inteligência artificial e simulam as vendas de um co
 * Permitir a exploração dos dados por meio do SQL e a visualização através do Power BI.
 * Demonstrar o uso de ferramentas de análise de dados aplicadas ao comércio eletrônico, integrando banco de dados relacionais a painéis interativos.
   
-## 🔍 Principais Conclusões e Insights
-- **Vendas ao longo do tempo**: Maior faturamento nos meses de janeiro, julho e agosto. O último trimestre do ano (outubro, novembro, dezembro) é marcado por baixo faturamento. Comparando a média de vendas do último trimestre (~$31.640) com a média de vendas dos meses de maior faturamento (~$47.590), nota-se uma queda de aproximadamente 33,5%. 
-- **Faturamento dos produtos**:
-  - **Mais vendidos**: Os três produtos mais vendidos foram: mouse gamer ($157.50 mil), teclado mecânico ($75,60 mil) e tablet Z ($55,80 mil); os dois primeiros pertencem à categoria          "periféricos", enquanto o último pertence à categoria "eletrônicos". A soma de faturamento deste três produtos consiste em 57% da receita total do ecommerce.
-  - **Menos vendidos**: Os três produtos menos vendidos foram: calça jeans ($3,46 mil), tenis esportivo ($4,34 mil) e livro romance ($10,08 mil); os dois primeiros pertencem à categoria       de roupas, enquanto o último, de livros. 
-- **Distribuição por região**:
-
-
-
+## 🔍 Conclusões e Insights iniciais
+- **Vendas ao longo do tempo**: Maior faturamento nos meses de janeiro, julho e agosto. O último trimestre do ano (outubro, novembro, dezembro) é marcado por baixo faturamento. Comparando a média de vendas do último trimestre (aprox. $31,64 mil) com a média de vendas dos meses de maior faturamento ($47,59 mil), nota-se uma queda de aproximadamente 33,5%. 
+- **Faturamento por produto**:
+  - **Mais vendidos**: Os três produtos com maior faturamento: mouse gamer ($157.50 mil), teclado mecânico ($75,60 mil) e tablet Z ($55,80 mil); os dois primeiros pertencem à                  categoria "periféricos", enquanto o último pertence à categoria "eletrônicos". A soma de faturamento deste três produtos consiste em 57% da receita total do ecommerce.
+  - **Menos vendidos**: Os três produtos com menor faturamento: calça jeans ($3,46 mil), tenis esportivo ($4,34 mil) e livro romance ($10,08 mil); os dois primeiros pertencem à categoria      de roupas, enquanto o último, à de livros. 
+- **Distribuição por região**: Os três estados com maior faturamento - Rio Grande do Sul, Rio de Janeiro e Minas Gerais. Observação: o estado que obteve maior faturamento, Rio grande do Sul, é também o que possui menor quantidade de vendas. 
+- **Ticket médio**: o valor aproximado do gasto médio por cliente é de $507. A categoria Periféricos possui o maior valor de ticket médio, aprox. $1.000.
 
 ## Contato
+Para dúvidas ou sugestões, entrar em contato pelo email: vinicius.varone008@gmail.com
