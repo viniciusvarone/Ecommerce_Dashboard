@@ -13,26 +13,13 @@ Este repositório apresenta um projeto de análise de dados aplicado a um contex
 * `Dashboard-ecommerce.pdf` → Dashboard em pdf.
 
 ## 📊 Dados
-- **Fonte:** 
-- **Quantidade de registros:**  
-- **Período coberto:** 
-- **Principais variáveis:** 
+Os dados foram gerados por inteligência artificial e simulam as vendas de um comércio no ano de 2023. O dataset é composto por duas tabelas relacionadas: a de vendas e a de produtos; a primeira possui 1000 registros únicos e 7 colunas, enquanto a segunda possui 16 registros e 3 colunas.
 
 ## 🛠️ Tecnologias Utilizadas
-- **Power Query** → tratamento e transformação de dados  
-- **Power BI** → criação de dashboards e KPIs  
-- **SQL** → consultas e exploração dos dados  
-- *(adicione outras se houver, ex: Python, Excel, etc.)*
+* MySQL Server & Workbench
+* Power BI
 
 ## 🎯 Objetivos
-- Tratar e preparar os dados para análise  
-- Criar indicadores de performance (KPIs) relevantes  
-- Visualizar métricas em dashboards de forma clara e interativa  
-- Extrair conclusões que auxiliem decisões estratégicas  
 
 ## 🔍 Principais Conclusões e Insights
-- O mês de maior faturamento foi **X** com **Y mil reais** em vendas  
-- O **ticket médio** foi de aproximadamente **R$ Z**  
-- A **região Sudeste** concentrou a maior parte das vendas  
-- Identificou-se sazonalidade nas vendas, com picos nos meses de **...**  
-- (adicione outras descobertas relevantes)
+
