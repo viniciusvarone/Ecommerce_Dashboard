@@ -24,7 +24,7 @@ Os dados foram gerados por inteligência artificial e simulam as vendas de um co
 * Permitir a exploração dos dados por meio do SQL e a visualização através do Power BI.
 * Demonstrar o uso de ferramentas de análise de dados aplicadas ao comércio eletrônico, integrando banco de dados relacionais a painéis interativos.
   
-## 🔍 Conclusões e Insights iniciais
+## 🔍 Conclusões iniciais
 - **Vendas ao longo do tempo**: Maior faturamento nos meses de janeiro, julho e agosto. O último trimestre do ano (outubro, novembro, dezembro) é marcado por baixo faturamento. Comparando a média de vendas do último trimestre (aprox. $31,64 mil) com a média de vendas dos meses de maior faturamento ($47,59 mil), nota-se uma queda de aproximadamente 33,5%. 
 - **Faturamento por produto**:
   - **Mais vendidos**: Os três produtos com maior faturamento: mouse gamer ($157.50 mil), teclado mecânico ($75,60 mil) e tablet Z ($55,80 mil); os dois primeiros pertencem à                  categoria "periféricos", enquanto o último pertence à categoria "eletrônicos". A soma de faturamento deste três produtos consiste em 57% da receita total do ecommerce.
